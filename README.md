@@ -1,3 +1,2 @@
-# simple_kleernet
-
+# simple_reciever
 Nad dac 1 firmware for connection with Xeo Transmitter 
